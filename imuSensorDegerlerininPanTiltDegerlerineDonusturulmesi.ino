@@ -21,7 +21,6 @@ void loop()
   Serial.println(accAngleX);
   Serial.print("accAngleY: ");
   Serial.println(accAngleY);
-
   delay(500); 
 }
 
