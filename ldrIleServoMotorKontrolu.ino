@@ -1,4 +1,4 @@
-// 2. Hafta: 1.4. Uygula: LDR Sensörünün Dijital Çıkışı ile Servo Motor Kontrolü
+// 2. Hafta: 1.4. Uygula: LDR Sensörünün Dijital Çıkışı ile Servo Motor Kontrolüdür.
 
 #include <Deneyap_Servo.h>		//Servo motor kütüphanesinin programa eklenmesi
 #define SERVOPIN D0  		      //servo motorun bağlandığı D0 pininin tanımlaması
