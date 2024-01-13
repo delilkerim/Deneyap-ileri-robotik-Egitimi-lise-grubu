@@ -21,5 +21,20 @@ Bu bölümde amaç, öğrencilerin ultrasonik mesafe sensöründen ve Deneyap Ge
 
 #### Kodlar yazılıp karta yüklendikten sonra ultrasonik sensörün önüne bir cisim yerleştirilir ve ileri geri hareket ettirilir. İbrenin de sensör ile cisim arasındaki mesafeye göre hareket ettiği gözlemlenir. Sensör ile cisim arasındaki mesafe 10 cm’nin altına düştüğünde zil ses çıkaracaktır.
 
+#### L298N MOTOR SÜRÜCÜ MODÜLÜ İLE İLGİLİ BİLGİLER
+
+| PİN ADI     | GÖREVİ                  |
+|-------------|-------------------------|
+| OUT1, OUT2  |  1. MOTOR BAĞLANTILARI  |
+| OUT3, OUT4  |  2. MOTOR BAĞLANTILARI  |
+| ENA         |  1. MOTOR HIZ KONTROLÜ  |
+| ENB         |  2. MOTOR HIZ KONTROLÜ  |
+| IN1, IN2    |  1. MOTOR YÖN KONTROLÜ  |
+| IN3, IN4    |  2. MOTOR YÖN KONTROLÜ  |
+| 12V,GND     |  MOTOR GÜÇ BESLEMESİ    |
+| 5V          |  5V GERİLİM ÇIKIŞI      |
+
+
+
 
 
