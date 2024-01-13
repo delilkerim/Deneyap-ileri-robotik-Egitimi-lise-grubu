@@ -19,5 +19,7 @@ Bu bölümde amaç, öğrencilerin ultrasonik mesafe sensöründen ve Deneyap Ge
 13.	Çift taraflı silikon bant ve makas
 14.	Abeslang, 1 adet
 
+#### Kodlar yazılıp karta yüklendikten sonra ultrasonik sensörün önüne bir cisim yerleştirilir ve ileri geri hareket ettirilir. İbrenin de sensör ile cisim arasındaki mesafeye göre hareket ettiği gözlemlenir. Sensör ile cisim arasındaki mesafe 10 cm’nin altına düştüğünde zil ses çıkaracaktır.
+
 
 
