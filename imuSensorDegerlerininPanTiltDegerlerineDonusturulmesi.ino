@@ -24,3 +24,5 @@ void loop()
 
   delay(500); 
 }
+
+// NOT:Kod içerisindeki “0.001” değerleri, olası herhangi bir tekillik (sıfıra bölme) durumunu bertaraf etmek için kullanılmıştır.
