@@ -1,6 +1,7 @@
-# Deneyap-ileri-robotik-Egitimi-lise-grubu
-Bu repository Deneyap Türkiye İleri Robotik Teknolojileri Eğitiminde lise grubunda yapılan uygulamalarının kodlarını içermektedir.
+# 2. Hafta: Işık Sensörleri ile Servo Motor Kontrolü
+## Haftanın Amacı:
+Bu bölümde amaç, öğrencilerin ışık sensöründen alınan dijital ve analog sinyaller ile bir servo motoru hareket ettirebilmesini sağlamaktır.
 
 
-> Uygulama kodlarına ulaşmak için **<u>main</u>** kısmına basarak istenilen hafta seçilir ve kodlara ulaşılabilir. Şimdiden iyi kodlamalar diliyorum...
+
 
